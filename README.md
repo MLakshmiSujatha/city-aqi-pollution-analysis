@@ -1,5 +1,17 @@
 # 🌍 City-wise AQI Pollution Analysis (Excel Project)
 
+# 🌍 City-wise AQI Pollution Analysis
+
+🚀 A data analysis project using Excel to explore air quality trends across cities.
+
+📊 Includes:
+- City-wise AQI analysis
+- Pollution trend insights
+- Compliance and deviation reports
+- Top polluted & least polluted cities
+
+🔗 Explore full reports below 👇
+
 This project presents a detailed **Air Quality Index (AQI) analysis** across different cities using Microsoft Excel. The goal is to understand pollution trends, compare city-wise air quality, and visualize environmental data effectively.
 
 ---

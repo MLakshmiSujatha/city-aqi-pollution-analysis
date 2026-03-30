@@ -15,15 +15,15 @@ This project presents a detailed **Air Quality Index (AQI) analysis** across dif
 
 ## 📂 Project Reports (PDF Links)
 
-* 📄 [City-wise AQI Report](./city_aqi_report.pdf)
+* 📄 [City-wise AQI Report](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/pdfs/city_aqi_report.pdf)
 
-* 📄 [Compliance Report](./compliance_report.pdf)
+* 📄 [Compliance Report](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/pdfs/compliance_report.pdf)
 
-* 📄 [Deviation from Target](./deviation_report.pdf)
+* 📄 [Deviation from Target](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/pdfs/deviation_report.pdf)
 
-* 📄 [Top 10 Least Polluted Cities](./top_10_least_polluted.pdf)
+* 📄 [Top 10 Least Polluted Cities](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/pdfs/top_10_least_polluted.pdf)
 
-* 📄 [Top 10 Most Polluted Cities](./top_10_most_polluted.pdf)
+* 📄 [Top 10 Most Polluted Cities](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/pdfs/top_10_most_polluted.pdf)
 
 ---
 

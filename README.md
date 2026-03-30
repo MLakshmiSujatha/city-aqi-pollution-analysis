@@ -37,6 +37,51 @@ This project presents a detailed **Air Quality Index (AQI) analysis** across dif
 
 * 📄 [Top 10 Most Polluted Cities](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/pdfs/top_10_most_polluted.pdf)
 
+  ## 📊 Project Preview
+
+A visual overview of the analysis performed using Excel dashboards and charts:
+
+---
+
+### 🌍 City-wise AQI Analysis
+
+This dashboard provides an overview of AQI levels across different cities, helping identify pollution distribution patterns.
+
+![City-wise AQI](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/city_wise_aqi.png)
+
+---
+
+### 📊 Compliance Analysis
+
+Highlights how cities perform against target AQI levels and identifies high-risk areas.
+
+![Compliance Report](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/compliance_report.png)
+
+---
+
+### 📉 Deviation from Target AQI
+
+Shows how much each city deviates from the acceptable AQI standards.
+
+![Deviation Analysis](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/deviation.png)
+
+---
+
+### 🌿 Top 10 Least Polluted Cities
+
+Displays cities with the lowest AQI levels, indicating better air quality.
+
+![Least Polluted Cities](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/top_10_less_polluted.png)
+
+---
+
+### ⚠️ Top 10 Most Polluted Cities
+
+Highlights cities with the highest AQI levels, indicating severe pollution concerns.
+
+![Most Polluted Cities](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/top_10_polluted.png)
+
+
 ---
 
 ## 🔍 Key Insights from the Analysis

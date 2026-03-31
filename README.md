@@ -1,16 +1,28 @@
 # 🌍 Air Quality Analysis Across Cities: Identifying Pollution Trends and Health Risks (Excel Project)
 
+---
+
 # overview
 This project analyzes city-wise air quality data across India using Microsoft Excel. The focus is on evaluating pollution levels, identifying the most and least polluted cities, and measuring compliance with air quality standards.
 
 The analysis aims to uncover patterns and deviations in air quality to better understand environmental conditions across different regions.
 
+---
+
+## 🚨 Key Finding
+
+Over 60% of cities analyzed show AQI levels above safe limits, with significant deviations indicating serious environmental and public health concerns.
+
+---
+
 # Objective
 
-Analyze AQI levels across Indian cities
-Identify top 10 most polluted and least polluted cities
-Evaluate compliance with air quality standards
-Measure deviations from acceptable pollution levels
+- Analyze AQI levels across Indian cities
+- Identify top 10 most polluted and least polluted cities
+- Evaluate compliance with air quality standards
+- Measure deviations from acceptable pollution levels
+
+---
 
 # 📊 Dataset
 Source: Kaggle
@@ -101,10 +113,12 @@ Highlighted regions with severe pollution levels
 
 ### 📈 Insights
 
-Several cities significantly exceed safe AQI limits, indicating serious pollution issues
-A small number of cities maintain relatively good air quality
-Pollution levels vary widely across regions
-Deviation analysis highlights areas requiring immediate attention
+1. Over 60% of cities analyzed exceed safe AQI limits, indicating widespread pollution concerns
+2. A small number of cities like Tirunelveli, Madikeri, and Chamarajanagar maintain relatively good air quality
+3. Pollution levels vary widely across regions
+4. Deviation analysis highlights areas requiring immediate attention
+
+These findings can help policymakers and environmental agencies prioritize high-risk areas and take targeted action.
 
 ---
 

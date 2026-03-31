@@ -1,6 +1,29 @@
-# 🌍 City-wise AQI Pollution Analysis (Excel Project)
+# 🌍 Air Quality Analysis Across Cities: Identifying Pollution Trends and Health Risks (Excel Project)
 
-# 🌍 City-wise AQI Pollution Analysis
+# overview
+This project analyzes city-wise air quality data across India using Microsoft Excel. The focus is on evaluating pollution levels, identifying the most and least polluted cities, and measuring compliance with air quality standards.
+
+The analysis aims to uncover patterns and deviations in air quality to better understand environmental conditions across different regions.
+
+# Objective
+
+Analyze AQI levels across Indian cities
+Identify top 10 most polluted and least polluted cities
+Evaluate compliance with air quality standards
+Measure deviations from acceptable pollution levels
+
+# 📊 Dataset
+Source: Kaggle
+Dataset contains city-wise AQI and pollutant data across India
+
+The dataset includes pollution indicators used to assess air quality and compare cities.
+
+# 🛠️ Tools Used
+Microsoft Excel
+Data Cleaning
+Sorting & Filtering
+Pivot Tables
+Charts & Graphs
 
 🚀 A data analysis project using Excel to explore air quality trends across cities.
 
@@ -12,17 +35,7 @@
 
 🔗 Explore full reports below 👇
 
-This project presents a detailed **Air Quality Index (AQI) analysis** across different cities using Microsoft Excel. The goal is to understand pollution trends, compare city-wise air quality, and visualize environmental data effectively.
-
----
-
-## 📊 Project Overview
-
-* 📁 Data Analysis performed using Excel
-* 📈 Includes charts, summaries, and comparisons
-* 🌆 Focus on city-wise AQI levels
-* 📄 Reports exported as PDF files
-
+This project analyzes air quality (AQI) data across multiple cities to identify pollution trends, high-risk regions, and potential environmental concerns impacting public health.
 ---
 
 ## 📂 Project Reports (PDF Links)
@@ -53,15 +66,16 @@ This dashboard provides an overview of AQI levels across different cities, helpi
 
 ### 📊 Compliance Analysis
 
-Highlights how cities perform against target AQI levels and identifies high-risk areas.
-
+Evaluated whether cities meet acceptable air quality standards
+Identified cities that exceed safe pollution limits
 ![Compliance Report](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/compliance_report.png)
 
 ---
 
 ### 📉 Deviation from Target AQI
 
-Shows how much each city deviates from the acceptable AQI standards.
+Measured how far pollution levels deviate from standard limits
+Helped identify cities with critical pollution concerns
 
 ![Deviation Analysis](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/deviation.png)
 
@@ -69,7 +83,8 @@ Shows how much each city deviates from the acceptable AQI standards.
 
 ### 🌿 Top 10 Least Polluted Cities
 
-Displays cities with the lowest AQI levels, indicating better air quality.
+Identified cities with relatively clean air
+Useful for understanding better environmental conditions
 
 ![Least Polluted Cities](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/top_10_less_polluted.png)
 
@@ -77,45 +92,37 @@ Displays cities with the lowest AQI levels, indicating better air quality.
 
 ### ⚠️ Top 10 Most Polluted Cities
 
-Highlights cities with the highest AQI levels, indicating severe pollution concerns.
+Ranked cities based on highest AQI values
+Highlighted regions with severe pollution levels
 
 ![Most Polluted Cities](https://github.com/MLakshmiSujatha/city-aqi-pollution-analysis/blob/main/images/top_10_polluted.png)
 
-
 ---
 
-## 🔍 Key Insights from the Analysis
+### 📈 Insights
 
-### 🌆 City-wise AQI Variation
+Several cities significantly exceed safe AQI limits, indicating serious pollution issues
+A small number of cities maintain relatively good air quality
+Pollution levels vary widely across regions
+Deviation analysis highlights areas requiring immediate attention
 
-* Significant variation in AQI levels across cities
-* Some cities consistently show high pollution levels
-* Others maintain relatively lower AQI values
-
-### ⚠️ High-Risk Cities Identified
-
-* Certain cities exceed acceptable AQI limits
-* These are high-risk zones requiring immediate action
-
-### 📉 Deviation from Target AQI
-
-* Many cities show large deviation from target AQI
-* Indicates gaps in pollution control measures
-
-### 📊 Compliance Analysis
-
-* Only a few cities meet AQI standards
-* Majority fail to comply with safe pollution levels
-
-### 🌿 Top & Bottom Performers
-
-* Least polluted cities maintain stable AQI
-* Most polluted cities show consistently poor air quality
+---
 
 ### 📈 Overall Trend
 
 * Urban areas tend to have higher pollution
 * AQI patterns show consistent environmental concerns
+
+---
+
+### 🌍 Why This Matters
+
+Air pollution is a major public health concern in India.
+This analysis helps:
+
+Identify high-risk cities
+Understand pollution distribution
+Support awareness and decision-making for environmental improvement
 
 ---
 
@@ -131,14 +138,6 @@ It also demonstrates how **Excel can be used effectively for data analysis and v
 
 ---
 
-## 🛠️ Tools Used
-
-* Microsoft Excel
-* Data Visualization (Charts & Graphs)
-* PDF Reporting
-
----
-
 ## 🚀 How to Use
 
 1. Click on any PDF link above
@@ -146,3 +145,23 @@ It also demonstrates how **Excel can be used effectively for data analysis and v
 3. Review insights and comparisons
 
 ---
+## 👩‍💻 About Me
+
+I am an aspiring data analyst with a strong interest in solving real-world problems using data. I enjoy working with tools like Microsoft Excel to clean, analyze, and visualize data, and I am continuously improving my skills in data analysis and storytelling.
+
+This project reflects my ability to analyze environmental data, identify meaningful patterns, and present insights in a clear and structured way.
+
+I am an aspiring data analyst with a strong interest in solving real-world problems using data. I enjoy working with tools like Microsoft Excel to clean, analyze, and visualize data, and I am continuously improving my skills in data analysis and storytelling.
+
+This project reflects my ability to analyze environmental data, identify meaningful patterns, and present insights in a clear and structured way.
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/mlakshmisujatha/
+💻 **GitHub:** https://github.com/MLakshmiSujatha
+
+I am actively looking for opportunities to grow as a data analyst and contribute to impactful, data-driven solutions.
+
+---
+
+
+
+
